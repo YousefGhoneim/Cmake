@@ -1,0 +1,8 @@
+/home/yghoneim/Documents/Embedded_linux/task2.4/project_dir/build/CMakeFiles/WriteInFile.dir
+/home/yghoneim/Documents/Embedded_linux/task2.4/project_dir/build/CMakeFiles/program.dir
+/home/yghoneim/Documents/Embedded_linux/task2.4/project_dir/build/CMakeFiles/edit_cache.dir
+/home/yghoneim/Documents/Embedded_linux/task2.4/project_dir/build/CMakeFiles/rebuild_cache.dir
+/home/yghoneim/Documents/Embedded_linux/task2.4/project_dir/build/CMakeFiles/list_install_components.dir
+/home/yghoneim/Documents/Embedded_linux/task2.4/project_dir/build/CMakeFiles/install.dir
+/home/yghoneim/Documents/Embedded_linux/task2.4/project_dir/build/CMakeFiles/install/local.dir
+/home/yghoneim/Documents/Embedded_linux/task2.4/project_dir/build/CMakeFiles/install/strip.dir
